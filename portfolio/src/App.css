@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Work+Sans:wght@700&display=swap");
+
+.textBox{
+    margin-top: 10px;
+    background-color: whitesmoke;
+    padding: 8px;
+    border-radius: 5px;
+    padding-left: 25px;
+    resize: none;
+    width: 100%;
+    font-size: large;
+    color: rgb(28,69,50);
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #041C32;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
